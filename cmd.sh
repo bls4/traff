@@ -1,1 +1,1 @@
-echo 'Nginx started'
+echo 'Nginx start'
